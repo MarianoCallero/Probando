@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="0cf61838-9e17-453e-921c-0cbcf74b9aed" name="probando Mapping">
+      <data-sources db="3a1c82c9-ea7d-4566-891f-b490075f847d" ddl="e0964e6b-854e-43cd-922f-910b86a0ca00" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="e0964e6b-854e-43cd-922f-910b86a0ca00" />
+          <option name="name" value="Practico1@localhost (DDL)" />
+          <option name="languageId" value="MySQL" />
+          <option name="parent" value="3a1c82c9-ea7d-4566-891f-b490075f847d" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/src/main/resources/META-INF" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

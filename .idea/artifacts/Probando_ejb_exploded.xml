@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="Probando:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Probando_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Probando/ejb/EJB" />
+      <element id="javaee-facet-classes" facet="Probando/ejb/EJB" />
+    </root>
+  </artifact>
+</component>
